@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Hi good this was test file"
+echo "have to test the git repository"
